@@ -114,7 +114,6 @@ nav a:hover {
   }
   .welcome-section .feranmi {
     font-size: 2em;
-    border: 2px solid turquoise;
   }
   .main-projects {
     margin-top: 2em;
@@ -128,10 +127,10 @@ nav a:hover {
     padding: 10px;
   }
   #img-div1 {
-    height: 20vh;
+    height: 36vh;
   }
   #img-div1 #image2 {
-    width: 78%;
-    height: 27vh;
+    width: 75%;
+    height: 2vh;
   }
 }
