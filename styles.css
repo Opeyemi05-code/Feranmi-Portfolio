@@ -93,7 +93,7 @@ nav a:hover {
   height: 46vh;
 }
   
-@media only screen and (max-width: 740px) {
+@media only screen and (max-width: 1030px) {
   header {
     height: 4vh;
     display: flex;
@@ -127,10 +127,15 @@ nav a:hover {
     padding: 10px;
   }
   #img-div1 {
-    height: 36vh;
+    height: 28vh;
   }
   #img-div1 #image2 {
     width: 75%;
-    height: 2vh;
+    height: 20vh;
   }
+  #image {
+    width: 75%;
+    height: 20vh;
+  }
+
 }
