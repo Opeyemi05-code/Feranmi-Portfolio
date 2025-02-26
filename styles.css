@@ -127,7 +127,7 @@ nav a:hover {
     padding: 10px;
   }
   #img-div1 {
-    height: 22vh;
+    height: 28vh;
   }
   #img-div1 #image2 {
     width: 75%;
@@ -135,6 +135,6 @@ nav a:hover {
   }
   #image {
     width: 75%;
-    height: 18vh;
+    height: 20vh;
   }
 }
